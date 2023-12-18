@@ -3,3 +3,6 @@ venv
 temp
 *.pyc
 node_modules
+*.wav
+*.pkf
+
