@@ -1,0 +1,194 @@
+though that wanted to create the most advanced video games ever made by moving them off cartridges and on to cds the could hold more information the cds would in theory allow them to bring hollywood style storytelling and production quality to the games
+a team of budding all stars who are a mix of engineers and film people was assembled to pull off the work tony for dell who would later drive much of the development of both the i pod and i phone at apple worked at rocket science
+as did the guys who developed the quicktime multimedia software for apple
+they also had people who worked on the original star wars effects and industrial light magic and some who did games at lucas arts entertainment
+rocket science gave musk a flavor for what silicon valley had to offer both from a talent and culture perspective
+there were people working at the office twenty four hours a day and they didn't think it at all odd that mosque would turn up around five pm every evening to start his second job
+we brought him into right some very menial low level code said peter barrett an australian engineer who helped start the company
+he was completely unflappable after a short while i don't think anyone was giving him any direction and he ended up making what he wanted to mike
+specifically mask had been asked to write the drivers that would let joysticks and mice communicate with various computers and games
+drivers are the same types of annoying files that you have to install to get a printer or camera working with a home computer true grunt work
+a self taught programmer musk fancied himself quite good at coding and assigned himself to more ambitious jobs
+i was basically trying to figure out how you could multitask stuff so you could read video from a c d while running a game at the same time musk said at the time you could do one or the other it was this complicated bit of assembly programming
+complicated indeed
+musk had to issue commands that spoke directly to a computers main microprocessor and fiddled with the most basic functions that made the machine work
+bruce leak the former lead engineer behind apple's quicktime had overseen the hiring of mosque and marvel that his ability to pull all nighters he had boundless energy leak said kids these days have no idea about hardware or how stuff works but he had a pc hacker background
+and was not afraid to just go figure things out
+musk found in silicone valley a wealth of the opportunity he'd been seeking and a place equal to his ambitions
+he would return to summers in a row and then bolt west permanently after graduating with dual degrees from penn
+he initially intended to pursue a doctorate in materials science and physics at stanford and to advance the work he done at pinnacle on ultracapacitors
+as the story goes musk dropped out of stanford after two days finding the internet's call irresistible
+he talked kimball into moving to silicone valley as well so they could conquer the web together
+the first inklings of a viable internet business had come to mask during his internships
+a salesperson from the yellow pages had come into one of the startup offices
+he tried to sell the idea of an online listing to complement the regular listing a company would have and the big fat yellow pages book
+the salesman struggled with his pitch and clearly had little grasp of what the internet actually was or how someone would find a business on it
+the flimsy pitch got musk thinking and he reached out to kimball talking up the idea of helping businesses get online for the first time
+ilan said these guys don't know what they're talking about maybe this is something we can do kimball said
+this was nineteen ninety five and the brothers were about to form global link information network a start up that would eventually be renamed as zip to
+for details on the controversy surrounding zip twos founding and masks academic record listen to appendix one
+the zip to idea was ingenious few small businesses in nineteen ninety five understood the ramifications of the internet they had little idea how to get on it and didn't really see the value in creating a website for their business or even in having a yellow pages like listing online
+musk and his brother hope to convince restaurants clothing shops hairdressers and the like that the time had come for them to make their presence known to the web surfing public
+zip to would create a searchable directory of businesses and tie this into maps
+musk often explain the concept through pizza saying that everyone deserves the right to know the location of their closest pizza parlor and the turn by turn directions to get their this may seem obvious today
+think yelp meets google maps but back then not even stoners had dreamed up such a service
+the musk brothers brought zip to to life at four thirty sherman avenue in palo alto they rented a studio apartment sized office twenty feet by thirty feet and acquired some basic furniture
+the three story building had it's quirks there were no elevators and the toilets often backed up there was literally a shitty place to work said an early employee
+to get a fast internet connection musk struck a deal with raise your wired an entrepreneur who ran an internet service provider operation from the floor below the zip to offices
+according to your wired musk drilled a hole in the dry wall near the zip to door and then strong an ethernet cable down the stairwell to the i s p they were slow to pay a couple of times but never stiffed me on the bill
+you're white said
+musk did all of the original coding behind the service himself while the more amiable campbell look to ramp up the door to door sales operation
+musk had acquired a cheap license to a database of business listings in the bay area that would give a businesses name and it's address he then contacted navteq a company that had spent hundreds of millions of dollars to create digital maps and directions the could be used in early gps navigation style devices and struck
+a masterful bargain
+we called them up and they gave us the technology for free said campbell
+musk merge the to databases together to get a rudimentary system up and running over time zip twos engineers had to augment this initial data hall with more maps to cover areas outside of major metropolitan areas and to build custom turn by turn directions that would look good and work well
+well on a home computer
+errol mosque gave his son's twenty eight thousand dollars to help them through this period
+but they were more or less broke after getting the office space licensing software and buying some equipment
+for the first three months of zip to life mosque and his brother lived at the office
+they had a small closet where they kept their clothes and would shower at the y m c a
+sometimes we ate for meals a day a jack in the box kimball said it was open twenty four hours which suited our work schedule
+i got a smoothie one time and there was something in it
+i just pulled it out and kept drinking i hadn't been able to eat their sense but i can still recite their menu
+next to the brothers rented a two bedroom apartment
+they didn't have the money or the inclination to get furniture so there were just a couple of mattresses on the floor
+musk somehow managed to convince a young south korean engineer to come work at zip to as an intern in exchange for room and board
+this poor kid thought he was coming over for a job at a big company kimball said he ended up living with us and had no idea what he was getting into
+one day the intern drove the mosques battered b m w three twenty i to work and a wheel came off en route
+the axle dug into the street at the intersection of page male road and el camino real and the groove it carved out remained visible for years
+zip to may have been a go go internet enterprise aimed at the information age but getting it off the ground required old fashioned door to door salesmanship businesses needed to be persuaded of the webs benefits and charmed into paying for the unknown
+in late nineteen ninety five the musk brothers began making their first hires and assembling a motley sales team jeff heilman a free spirited twenty year old trying to figure out what to do with his life arrived as one of zip twos first recruits he'd been watching tv late one night with his dad and seen a webpage
+ras printed at the bottom of the screen during a commercial it was for something dot com home and said
+i remember sitting there and asking my dad what we were looking at he said he didn't know either that's when i realized i had to go find me some internet
+home and spend a couple of weeks trying to chat up people who could explain the internet to him and then stumbled on a to by two inch zip to job listing in the san jose mercury news internet sales apply here it read and heilman got the gig
+handful of other sales people joined him and worked for commissions
+musk never seem to leave the office he slept not unlike a dog on a beanbag next to his desk
+almost every day i'd come in at seven thirty or eight am and he'd be asleep right there on that bag heilman said maybe he showered on the weekends i don't know musk ask those first employees of zip to to give him a kick when they arrived and he'd wake up and get back to work
+while mosque did his possessed kotor thing kimball became the ra ra sales leader
+kimball was the eternal optimist and he was very very uplifting heilman said i had never met anyone quite like him
+kimball sent heilman to the high end stanford shopping mall and university avenue the main drag in palo alto to coax retailers into signing up with zip to explaining that a sponsored listing would send a company to the top of search results
+the big problem of course was that no one was bye week after week heilman knocked on doors and returned to the office with very little to report in the way of good news
+the nicest responses came from the people who told heilman that advertising on the internet sounded like the dumbest thing they had ever heard of
+most often the shop owners just told heilman to leave and stop bothering them
+when lunchtime came around the masks would reach into a cigar box where they kept some cash take home out and get the depressing status reports on the sales
+craig more another early employee gave up his job selling real estate to hoc sip to service
+he decided to court auto dealerships because they usually spent lots of money on advertising he told them about zip twos main website www dot total info dot com
+and tried to convince them that demand was high to get a listing like w w w dot total info dot com forward slash toyota of silicone valley
+the service did not always work when more demonstrated it or it would load very slowly as was common back then
+this forced him to talk the customers into imagining zip twos potential one day i came back with about nine hundred dollars in shacks more said i walked into the office and ask the guys what they wanted me to do with the money
+ilan stopped pounding his keyboard leaned out from behind his monitor and said no way you've got money
+what kept the employee spirits up where the continuous improvement musk made with the zip to software
+the service had morphed from a proof of concept to an actual product the could be used and demoed ever marketing savvy the musk brothers tried to make their web service see more important by giving it an imposing physical body
+musk built a huge case around a standard p c and loved the unit onto a base with wheels
+when prospective investors would come by mosque would put on a show and roll this massive machine out so that it appeared like zip to ran inside of a mini supercomputer the investors thought that was impressive kimball said
+home and also noticed that the investors bought into masks a slavish devotion to the company
+even then is essentially a college kid with zits ilan had this drive that this thing whatever it was had to get done and that if he didn't do it he'd missed his shot home and said
+i think that's what the v c saw that he was willing to stake his existence on building out this platform
+musk actually said as much to one venture capitalist informing him my mentality is that of a samurai i would rather commits a puco then fail
+early on in the zip to venture mosque acquired an important confidant who tempered some of these more dramatic impulses
+greg corey a canadian business man in his mid thirties had met the mosques in toronto and bought into the early zip to brainstorming the boys had showed up at his door one morning to inform quarry that they intended to head to california to give the business a shot
+still in his red bathrobe corey went back into the house dog around for a couple of minutes and came back with a wad of six thousand dollars
+in early nineteen ninety six he moved to california and joined zip to as a cofounder
+corey who had done a number of real estate deals in the past and had actual business experience and skills at reading people served as the adult supervision at zip to
+the canadian had a knack for calming mask and ended up becoming something of a mentor
+really smart people sometimes don't understand that not everyone can keep up with them or go as fast said derek freudian a venture capitalist who would become zip twos chief executive officer
+greg is one of the few people that ilan would listen to and had a way of putting things in context for him
+corey also used to referee fist fights between ilan and kimball in the middle of the office
+i don't get in fights with anyone else but ilan and i don't have the ability to reconcile of vision other than our own kimball said
+though that wanted to create the most advanced video games ever made by moving them off cartridges and on to cds the could hold more information the cds would in theory allow them to bring hollywood style storytelling and production quality to the games
+a team of budding all stars who are a mix of engineers and film people was assembled to pull off the work tony for dell who would later drive much of the development of both the i pod and i phone at apple worked at rocket science
+as did the guys who developed the quicktime multimedia software for apple
+they also had people who worked on the original star wars effects and industrial light magic and some who did games at lucas arts entertainment
+rocket science gave musk a flavor for what silicon valley had to offer both from a talent and culture perspective
+there were people working at the office twenty four hours a day and they didn't think it at all odd that mosque would turn up around five pm every evening to start his second job
+we brought him into right some very menial low level code said peter barrett an australian engineer who helped start the company
+he was completely unflappable after a short while i don't think anyone was giving him any direction and he ended up making what he wanted to mike
+specifically mask had been asked to write the drivers that would let joysticks and mice communicate with various computers and games
+drivers are the same types of annoying files that you have to install to get a printer or camera working with a home computer true grunt work
+a self taught programmer musk fancied himself quite good at coding and assigned himself to more ambitious jobs
+i was basically trying to figure out how you could multitask stuff so you could read video from a c d while running a game at the same time musk said at the time you could do one or the other it was this complicated bit of assembly programming
+complicated indeed
+musk had to issue commands that spoke directly to a computers main microprocessor and fiddled with the most basic functions that made the machine work
+bruce leak the former lead engineer behind apple's quicktime had overseen the hiring of mosque and marvel that his ability to pull all nighters he had boundless energy leak said kids these days have no idea about hardware or how stuff works but he had a pc hacker background
+and was not afraid to just go figure things out
+musk found in silicone valley a wealth of the opportunity he'd been seeking and a place equal to his ambitions
+he would return to summers in a row and then bolt west permanently after graduating with dual degrees from penn
+he initially intended to pursue a doctorate in materials science and physics at stanford and to advance the work he done at pinnacle on ultracapacitors
+as the story goes musk dropped out of stanford after two days finding the internet's call irresistible
+he talked kimball into moving to silicone valley as well so they could conquer the web together
+the first inklings of a viable internet business had come to mask during his internships
+a salesperson from the yellow pages had come into one of the startup offices
+he tried to sell the idea of an online listing to complement the regular listing a company would have and the big fat yellow pages book
+the salesman struggled with his pitch and clearly had little grasp of what the internet actually was or how someone would find a business on it
+the flimsy pitch got musk thinking and he reached out to kimball talking up the idea of helping businesses get online for the first time
+ilan said these guys don't know what they're talking about maybe this is something we can do kimball said
+this was nineteen ninety five and the brothers were about to form global link information network a start up that would eventually be renamed as zip to
+for details on the controversy surrounding zip twos founding and masks academic record listen to appendix one
+the zip to idea was ingenious few small businesses in nineteen ninety five understood the ramifications of the internet they had little idea how to get on it and didn't really see the value in creating a website for their business or even in having a yellow pages like listing online
+musk and his brother hope to convince restaurants clothing shops hairdressers and the like that the time had come for them to make their presence known to the web surfing public
+zip to would create a searchable directory of businesses and tie this into maps
+musk often explain the concept through pizza saying that everyone deserves the right to know the location of their closest pizza parlor and the turn by turn directions to get their this may seem obvious today
+think yelp meets google maps but back then not even stoners had dreamed up such a service
+the musk brothers brought zip to to life at four thirty sherman avenue in palo alto they rented a studio apartment sized office twenty feet by thirty feet and acquired some basic furniture
+the three story building had it's quirks there were no elevators and the toilets often backed up there was literally a shitty place to work said an early employee
+to get a fast internet connection musk struck a deal with raise your wired an entrepreneur who ran an internet service provider operation from the floor below the zip to offices
+according to your wired musk drilled a hole in the dry wall near the zip to door and then strong an ethernet cable down the stairwell to the i s p they were slow to pay a couple of times but never stiffed me on the bill
+you're white said
+musk did all of the original coding behind the service himself while the more amiable campbell look to ramp up the door to door sales operation
+musk had acquired a cheap license to a database of business listings in the bay area that would give a businesses name and it's address he then contacted navteq a company that had spent hundreds of millions of dollars to create digital maps and directions the could be used in early gps navigation style devices and struck
+a masterful bargain
+we called them up and they gave us the technology for free said campbell
+musk merge the to databases together to get a rudimentary system up and running over time zip twos engineers had to augment this initial data hall with more maps to cover areas outside of major metropolitan areas and to build custom turn by turn directions that would look good and work well
+well on a home computer
+errol mosque gave his son's twenty eight thousand dollars to help them through this period
+but they were more or less broke after getting the office space licensing software and buying some equipment
+for the first three months of zip to life mosque and his brother lived at the office
+they had a small closet where they kept their clothes and would shower at the y m c a
+sometimes we ate for meals a day a jack in the box kimball said it was open twenty four hours which suited our work schedule
+i got a smoothie one time and there was something in it
+i just pulled it out and kept drinking i hadn't been able to eat their sense but i can still recite their menu
+next to the brothers rented a two bedroom apartment
+they didn't have the money or the inclination to get furniture so there were just a couple of mattresses on the floor
+musk somehow managed to convince a young south korean engineer to come work at zip to as an intern in exchange for room and board
+this poor kid thought he was coming over for a job at a big company kimball said he ended up living with us and had no idea what he was getting into
+one day the intern drove the mosques battered b m w three twenty i to work and a wheel came off en route
+the axle dug into the street at the intersection of page male road and el camino real and the groove it carved out remained visible for years
+zip to may have been a go go internet enterprise aimed at the information age but getting it off the ground required old fashioned door to door salesmanship businesses needed to be persuaded of the webs benefits and charmed into paying for the unknown
+in late nineteen ninety five the musk brothers began making their first hires and assembling a motley sales team jeff heilman a free spirited twenty year old trying to figure out what to do with his life arrived as one of zip twos first recruits he'd been watching tv late one night with his dad and seen a webpage
+ras printed at the bottom of the screen during a commercial it was for something dot com home and said
+i remember sitting there and asking my dad what we were looking at he said he didn't know either that's when i realized i had to go find me some internet
+home and spend a couple of weeks trying to chat up people who could explain the internet to him and then stumbled on a to by two inch zip to job listing in the san jose mercury news internet sales apply here it read and heilman got the gig
+handful of other sales people joined him and worked for commissions
+musk never seem to leave the office he slept not unlike a dog on a beanbag next to his desk
+almost every day i'd come in at seven thirty or eight am and he'd be asleep right there on that bag heilman said maybe he showered on the weekends i don't know musk ask those first employees of zip to to give him a kick when they arrived and he'd wake up and get back to work
+while mosque did his possessed kotor thing kimball became the ra ra sales leader
+kimball was the eternal optimist and he was very very uplifting heilman said i had never met anyone quite like him
+kimball sent heilman to the high end stanford shopping mall and university avenue the main drag in palo alto to coax retailers into signing up with zip to explaining that a sponsored listing would send a company to the top of search results
+the big problem of course was that no one was bye week after week heilman knocked on doors and returned to the office with very little to report in the way of good news
+the nicest responses came from the people who told heilman that advertising on the internet sounded like the dumbest thing they had ever heard of
+most often the shop owners just told heilman to leave and stop bothering them
+when lunchtime came around the masks would reach into a cigar box where they kept some cash take home out and get the depressing status reports on the sales
+craig more another early employee gave up his job selling real estate to hoc sip to service
+he decided to court auto dealerships because they usually spent lots of money on advertising he told them about zip twos main website www dot total info dot com
+and tried to convince them that demand was high to get a listing like w w w dot total info dot com forward slash toyota of silicone valley
+the service did not always work when more demonstrated it or it would load very slowly as was common back then
+this forced him to talk the customers into imagining zip twos potential one day i came back with about nine hundred dollars in shacks more said i walked into the office and ask the guys what they wanted me to do with the money
+ilan stopped pounding his keyboard leaned out from behind his monitor and said no way you've got money
+what kept the employee spirits up where the continuous improvement musk made with the zip to software
+the service had morphed from a proof of concept to an actual product the could be used and demoed ever marketing savvy the musk brothers tried to make their web service see more important by giving it an imposing physical body
+musk built a huge case around a standard p c and loved the unit onto a base with wheels
+when prospective investors would come by mosque would put on a show and roll this massive machine out so that it appeared like zip to ran inside of a mini supercomputer the investors thought that was impressive kimball said
+home and also noticed that the investors bought into masks a slavish devotion to the company
+even then is essentially a college kid with zits ilan had this drive that this thing whatever it was had to get done and that if he didn't do it he'd missed his shot home and said
+i think that's what the v c saw that he was willing to stake his existence on building out this platform
+musk actually said as much to one venture capitalist informing him my mentality is that of a samurai i would rather commits a puco then fail
+early on in the zip to venture mosque acquired an important confidant who tempered some of these more dramatic impulses
+greg corey a canadian business man in his mid thirties had met the mosques in toronto and bought into the early zip to brainstorming the boys had showed up at his door one morning to inform quarry that they intended to head to california to give the business a shot
+still in his red bathrobe corey went back into the house dog around for a couple of minutes and came back with a wad of six thousand dollars
+in early nineteen ninety six he moved to california and joined zip to as a cofounder
+corey who had done a number of real estate deals in the past and had actual business experience and skills at reading people served as the adult supervision at zip to
+the canadian had a knack for calming mask and ended up becoming something of a mentor
+really smart people sometimes don't understand that not everyone can keep up with them or go as fast said derek freudian a venture capitalist who would become zip twos chief executive officer
+greg is one of the few people that ilan would listen to and had a way of putting things in context for him
+corey also used to referee fist fights between ilan and kimball in the middle of the office
+i don't get in fights with anyone else but ilan and i don't have the ability to reconcile of vision other than our own kimball said
