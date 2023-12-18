@@ -1,0 +1,5 @@
+models
+venv
+temp
+*.pyc
+node_modules
